@@ -1,5 +1,5 @@
-# swagger2BioTools
-Tool to convert Swagger configuration files to Bio.Tools input XML.
+# OpenAPI 2 BioTools
+Tool to convert OpenAPI (version 2) configuration files to Bio.Tools input XML.
 
 #### Steps:
 
